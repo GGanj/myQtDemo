@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/border.png</file>
+        <file>img/btn1.jpg</file>
+        <file>img/btn2.jpg</file>
+        <file>img/btn3.jpg</file>
+        <file>img/cardVideo.mp4</file>
+        <file>img/circle1.svg</file>
+        <file>img/cubeVideo.mp4</file>
+        <file>img/eventHandle.png</file>
+        <file>img/img_navsprites.gif</file>
+        <file>img/img_navsprites_hover.gif</file>
+        <file>img/img_trans.gif</file>
+        <file>img/lights.jpg</file>
+        <file>img/merglobe.gif</file>
+        <file>img/pineapple.jpg</file>
+        <file>img/planets.gif</file>
+        <file>img/sun.gif</file>
+        <file>img/venglobe.gif</file>
+    </qresource>
+</RCC>
